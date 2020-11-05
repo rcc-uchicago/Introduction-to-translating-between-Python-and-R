@@ -3,11 +3,11 @@ Materials for RCC workshop "Introduction to translating between Python and R"
 
 <b> Abstract</b>
 
-<b> Objectives:</b>
+<b> Objectives:</b><\n>
 During the workshop participants will be able to:
 
 
-<b> Level:</b>
+<b> Level:</b><\n>
 Introduction/ Intermediate
 
 <b> Duration:</b>
