@@ -1,17 +1,17 @@
 # Introduction to translating between Python and R
 Materials for RCC workshop "Introduction to translating between Python and R"
 
-Abstract
+<b> Abstract
 
-Objectives:
+<b> Objectives:
 During the workshop participants will be able to:
 
 
-Level:
+<b> Level:
 Introduction/ Intermediate
 
-Duration:
+<b> Duration:
 2 hours
 
-Prerequisites:
+<b> Prerequisites:
 All participants are expected to bring a laptop with a Mac, Linux, or Windows operating system that they have administrative privileges on. This workshop assumes participants possess prior programming experience, particularly in Python and Jupyter Notebook. An RCC account is not required
